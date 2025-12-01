@@ -8,7 +8,7 @@ updates:
       time: "20:00"
       timezone: "Europe/Berlin"
     target-branch: "development"
-    versioning-strategy: increase-if-necessary
+    versioning-strategy: widen
     ignore:
       # ignore all requirements_extra
       - dependency-name: "sphinx"
