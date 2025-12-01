@@ -1,0 +1,16 @@
+pytest
+pytest-cov
+pytest-xdist
+jupyter
+sphinx>=8.1, <=8.2
+sphinxcontrib-bibtex~=2.6
+numpydoc~=1.9
+nbsphinx~=0.9
+nbformat~=5.10
+sphinx-gallery~=0.19
+pybtex~=0.25
+pydata_sphinx_theme~=0.16
+gitpython
+black
+flake8
+pre-commit
